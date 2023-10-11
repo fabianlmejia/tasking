@@ -25,7 +25,7 @@
                     <label>Comprar un unicornio</label>
                     <button class="destroy"></button>
                 </div>
-                <input class="edit" value="Rule the web">
+                <input class="edit" value="Rule the web">pruebass
             </li> -->
         </ul>
     </section>
